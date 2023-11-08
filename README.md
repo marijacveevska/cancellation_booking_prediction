@@ -6,7 +6,7 @@ Booking cancellations can lead to revenue loss and operational inefficiencies, m
 #### Overview
 - Data Wrangling
 - Exploratory Data Analysis
-- Machine Learning Algorithms for Prediction
+- Machine Learning Models for Prediction
 
 
 #### Tools and Languages
